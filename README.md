@@ -1,2 +1,2 @@
-# apnacollege-demo
+# cocoa-demo
 this is my first git repository
